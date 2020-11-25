@@ -48,5 +48,3 @@ can develop a secure programmable code that cannot be altered in other parts of 
 forms of objects to work together, there is no hindrance of one object on the other. The understanding of the software becomes much easy while dealing with OOP. For communication and transfer of information, the objects interact with each other, which was difficult in POP.
 
 ## THANKYOU
-
-## THANKYOU
