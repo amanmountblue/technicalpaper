@@ -12,16 +12,16 @@ Object-oriented programming is a type of programming that uses objects and class
 
 **Objects**: An Object is an instance of a class which means that we can access the data member and class method by creating an object of a class.
 
-## Concepts of Object Oriented Programming
+## Concepts of Object-Oriented Programming
 
-- **Encapsulation** : Encapsulation is the concept of wrapping together data and information in a single unit.
+- **Encapsulation**: Encapsulation is the concept of wrapping together data and information in a single unit.
   eg In an organization there are several batches each batch binds different students and study material.
 
-- **Polymorphism** : One name many forms, in real-world persons can have different mood angry, love, etc. In object-oriented programming, this is used in operator overloading and operator overriding.
+- **Polymorphism**: One name many forms, in real-world persons can have different mood angry, love, etc. In object-oriented programming, this is used in operator overloading and operator overriding.
 
-- **Inheritance** : It is the property of a class to inherit properties from other classes. It reduces the time to create the variable or methods again and again. The class which derives properties from another class is called child class and the class from which the property is inherited is called parent class.
+- **Inheritance**: It is the property of a class to inherit properties from other classes. It reduces the time to create the variable or methods again and again. The class which derives properties from another class is called child class and the class from which the property is inherited is called parent class.
 
-- **Abstraction** : The hiding of data is called data abstraction. In the real-world when you ride a bike you don't know the internal working of the bike or internal parts of a bike just like this we show the final working of software to the user, not the whole code.
+- **Abstraction**: The hiding of data is called data abstraction. In the real-world when you ride a bike you don't know the internal working of the bike or internal parts of a bike just like this we show the final working of software to the user, not the whole code.
 
 ## Code to make a class in Python
 
