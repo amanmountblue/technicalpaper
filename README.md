@@ -32,6 +32,7 @@ p1 = MyClass()
 print(p1.x)
 ```
 Output: 5
+
 This is a simple class program where p1 is an object and it is accessing the variable of a class.
 
 ## THANKYOU
