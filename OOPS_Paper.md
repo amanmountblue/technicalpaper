@@ -34,6 +34,7 @@ print(p1.x)
 ```
 
 Output: 5
+
 This is a simple class program where p1 is an object and it is accessing the variable of a class.
 
 ## BENEFITS OF OBJECT-ORIENTED PROGRAMMING OVER PROCEDURAL ORIENTED PROGRAMMING
