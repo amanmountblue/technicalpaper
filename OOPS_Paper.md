@@ -6,13 +6,13 @@
 
 Object-oriented programming is a type of programming that uses objects and classes for functioning. Generally, object-oriented programming binds the variable and functions in a single entity to restrict its usage. Most of the concept of Object-Oriented Programming is from the real world.
 
-## Objects and classes
+## Objects And Classes
 
 **Classes**: The class contains the data member and member functions which is also called class methods.
 
 **Objects**: An Object is an instance of a class which means that we can access the data member and class method by creating an object of a class.
 
-## Concepts of Object-Oriented Programming
+## Concepts Of Object-Oriented Programming
 
 - **Encapsulation**: Encapsulation is the concept of wrapping together data and information in a single unit.
   eg In an organization there are several batches each batch binds different students and study material.
@@ -23,7 +23,7 @@ Object-oriented programming is a type of programming that uses objects and class
 
 - **Abstraction**: The hiding of data is called data abstraction. In the real-world when you ride a bike you don't know the internal working of the bike or internal parts of a bike just like this we show the final working of software to the user, not the whole code.
 
-## Code to make a class in Python
+### Code to make a class in python
 
 ```python
 class MyClass:
@@ -37,7 +37,7 @@ Output: 5
 
 This is a simple class program where p1 is an object and it is accessing the variable of a class.
 
-## BENEFITS OF OBJECT-ORIENTED PROGRAMMING OVER PROCEDURAL ORIENTED PROGRAMMING
+## Benefits Of Object-Oriented Programming Over Procedural Oriented Programming
 
 The programming language that uses various high-end languages like COBOL, C, etc is popularly known as Procedural
 Oriented Programming language or POP. In this language, the main emphasis is on what procedure is followed for the
