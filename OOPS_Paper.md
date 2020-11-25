@@ -35,4 +35,18 @@ Output: 5
 
 This is a simple class program where p1 is an object and it is accessing the variable of a class.
 
+## BENEFITS OF OBJECT-ORIENTED PROGRAMMING OVER PROCEDURAL ORIENTED PROGRAMMING
+
+The programming language that uses various high-end languages like COBOL, C, etc is popularly known as Procedural
+Oriented Programming language or POP. In this language, the main emphasis is on what procedure is followed for the
+program execution. Also, which function is used is important. It includes a number of steps or procedures that the system must follow and also it organizes these procedures into several groups known as functions. The functions created in the program share the global data and these functions transfer data from one to another. It focuses on following a top-down approach.
+
+Object-Oriented Programming is more realistic and is very popular among developers. It tries to develop programs
+more likely modeled in a way the users imagine and work along. There are many benefits of Object-Oriented Programming language over the traditional Procedural Oriented Programming. Firstly, with the advent of inheritance, we can
+avoid the redundancy in our code and can increase the extensibility factor of our class, which was not possible while implementing Procedural Oriented Programming. Secondly, by implementing the concept of data hiding, the programmer
+can develop a secure programmable code that cannot be altered in other parts of the program. With the option of having many
+forms of objects to work together, there is no hindrance of one object on the other. The understanding of the software becomes much easy while dealing with OOP. For communication and transfer of information, the objects interact with each other, which was difficult in POP.
+
+## THANKYOU
+
 ## THANKYOU
